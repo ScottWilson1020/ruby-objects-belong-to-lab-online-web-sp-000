@@ -8,5 +8,3 @@ class Song
  
 end
 
-
-song = Song.new
