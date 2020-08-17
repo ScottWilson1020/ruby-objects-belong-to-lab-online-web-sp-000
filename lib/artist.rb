@@ -1,6 +1,5 @@
 class Artist
-  attr_accessor :name, :author
+  attr_accessor :name, 
 end
 
 artist = Artist.new
-author = Artist.ne
