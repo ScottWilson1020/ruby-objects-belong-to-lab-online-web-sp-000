@@ -7,3 +7,6 @@ class Song
   end
  
 end
+
+
+song = Song.new
